@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+## In doubt about [wedding venues?](https://www.360sitevisit.com/) We show you 4 tips to choose from!
 
-You can use the [editor on GitHub](https://github.com/samekhanok/wedding-venues/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The wedding ceremony is something that remains quite eternal in the memory. So, to ensure a better choice it is important to know different wedding venues and, from there, check some details.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+After all, it is a big day and possible frustrations cannot be allowed to spoil your expectations. Therefore, there is some information that you should keep an eye on and be very careful with. Especially because the other services must be selected according to the location of the wedding.
 
-### Markdown
+So, did you feel interested in knowing more about the subject? Continue reading we will show you some tips to help you choose!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 1. Ability to serve the number of people
 
-```markdown
-Syntax highlighted code block
+Being aware of the number of guests is something that must come before deciding on the location of the ceremony. After all, you need to make sure that the chosen place has the proper infrastructure to provide comfort to the guests. This includes accessibility for possible guests with reduced mobility or visually impaired, for example. In addition to being a place that can be easily found by guests.
 
-# Header 1
-## Header 2
-### Header 3
+### 2. Security
 
-- Bulleted
-- List
+Although it is often overlooked, taking this into account is very important. So, in addition to observing if the place of the ceremony holds all the guests, it is essential to prevent and observe the existence of emergency exits, fire brigade, generator included etc.
 
-1. Numbered
-2. List
+Also, establish guarantees in case of cancellation and make a contract with all the details agreed, from the basics to technical specifications. All of this counts so that the couple does not go through unnecessary frustrations and enjoy their day better.
 
-**Bold** and _Italic_ and `Code` text
+### 3. Budget
 
-[Link](url) and ![Image](src)
-```
+Financial organization is also an essential step in avoiding problems. Keep in mind that if the budget is smaller, investing absurd amounts where the wedding will take place may compromise other services that are also necessary, such as buffet, decoration, etc. So, the recommendation is to set aside about 10% of the budget for renting the space.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### 4. Wedding style
 
-### Jekyll Themes
+This is another detail that must be taken into account before deciding where the wedding will be, since the location must be based on the style of the ceremony. So, if your goal is a more sophisticated and classic wedding, there are places like museums, old mansions and even luxury hotels that already have an architecture and decoration that meet this style. However, if you do a more vintage or rustic style, the places, beaches, bistros and restaurants can guarantee a perfect harmony in the decoration.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/samekhanok/wedding-venues/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+So, did you realize how important it is to take different details into consideration before looking for wedding venues? Usually, with the euphoria of the preparations for the ceremony, some essential points can be overlooked, such as ensuring accessible places. So, keep an eye out.
+
+Did you like our post? How about taking advantage of the visit to the blog to get deeper into the subject and also know some examples of different wedding favors? [Check out!](https://www.360sitevisit.com/)
+
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble [contact support](https://www.360sitevisit.com/contact) and we’ll help you sort it out.
